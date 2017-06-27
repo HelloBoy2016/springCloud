@@ -12,6 +12,7 @@
     <modules>
         <module>eurekaserver</module>
         <module>servicehi</module>
+        <module>service-ribbon</module>
     </modules>
 
     <properties>
