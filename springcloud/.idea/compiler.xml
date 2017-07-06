@@ -24,12 +24,14 @@
         <processorPath useClasspath="true" />
         <module name="eurekaserver" />
         <module name="service-hi" />
+        <module name="service-hi-2" />
         <module name="service-ribbon" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="eurekaserver" target="1.8" />
       <module name="service-hi" target="1.8" />
+      <module name="service-hi-2" target="1.8" />
       <module name="service-ribbon" target="1.8" />
       <module name="springcloud" target="1.8" />
     </bytecodeTargetLevel>
