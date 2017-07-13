@@ -14,6 +14,8 @@
         <module>servicehi</module>
         <module>service-ribbon</module>
         <module>service-hi-2</module>
+        <module>serice-feign</module>
+        <module>service-zuul</module>
     </modules>
 
     <properties>
